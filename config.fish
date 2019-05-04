@@ -1,0 +1,1 @@
+/home/tahsin/.config/fish/config.fish

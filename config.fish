@@ -8,5 +8,8 @@ set -gx PATH /usr/local/go/bin $GOPATH/bin $PATH
 # bazel
 set -gx PATH $HOME/bin $PATH
 
+# kubebuilder
+set -gx PATH /usr/local/kubebuilder/bin $PATH
+
 # $EDITOR
 set -gx EDITOR vim

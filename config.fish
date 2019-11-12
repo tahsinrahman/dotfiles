@@ -11,5 +11,9 @@ set -gx PATH $HOME/bin $PATH
 # kubebuilder
 set -gx PATH /usr/local/kubebuilder/bin $PATH
 
+# pip
+set -gx PATH /home/tahsin/.local/bin $PATH
+
 # $EDITOR
 set -gx EDITOR vim
+

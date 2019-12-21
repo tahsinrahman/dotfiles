@@ -17,4 +17,6 @@ set -gx PATH /home/tahsin/.local/bin $PATH
 # $EDITOR
 set -gx EDITOR vim
 
+# kubernetes alias
 alias k "kubectl"
+

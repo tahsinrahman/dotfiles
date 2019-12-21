@@ -17,3 +17,4 @@ set -gx PATH /home/tahsin/.local/bin $PATH
 # $EDITOR
 set -gx EDITOR vim
 
+alias k "kubectl"

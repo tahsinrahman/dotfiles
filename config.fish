@@ -19,4 +19,4 @@ set -gx EDITOR vim
 
 # kubernetes alias
 alias k "kubectl"
-
+alias kcd 'kubectl config set-context (kubectl config current-context) --namespace'
